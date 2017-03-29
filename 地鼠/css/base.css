@@ -1,0 +1,21 @@
+.container {
+	height: 600px;
+	width: 800px;
+	
+	margin:0 auto;
+}
+.dd {
+	width: 256px;
+	height: 240px;
+	background:url(../img/bg.png) ;
+	float:left;
+}
+.dc {
+	background-position: 0 -242px;
+}
+.dc {
+	background-position: 0 -242px;
+}
+.dc {
+	background-position: 0 -242px;
+}
